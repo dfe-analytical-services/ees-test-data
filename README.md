@@ -87,6 +87,21 @@ string_digits
 overlapping_terms
 - Tests all kinds of termly data that is overlapping
 
+some_identifier_missing
+- Tests with some time identifier cells blank
+
+some_year_missing
+- Tests with some time_periods blank
+
+year_identifier_missing_columns
+- Test data with no time_period or time_identifier columns
+
+all_year_empty
+- All time_period cells blank
+
+all_year_identifier_blank
+- All time_period and time_identifier cells are blank
+
 ----------------------------------------
 ## Geography levels test data
 
