@@ -137,7 +137,6 @@ LA_with_SOME_regional_columns
 
 
 ## Still to do
-------------------------------------------------
 
 MAT - Multi-academy trust
 
