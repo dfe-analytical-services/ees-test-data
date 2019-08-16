@@ -1,13 +1,18 @@
 # ees-test-data
+
 Test data for the Explore Education Statistics service, below is a description for each of the files.
-They were originally in five seperate folders, which is why this looks like it's been wedged together.
-At some point I will tidy this up so it's easier to find the information for individual files.
-Cam
 
-## Time test data
+## Large
 
-Below is a description of the purpose for each of the files aimed at testing time.
-For each of these files, you should use the 'time_variations_testing.meta' file as the corresponding metadata file. 
+These files have been sent by production teams as test data for the new platform, they are all based on already published data.
+
+Each file has a corresponding .meta file within the zip folder.
+
+## Small
+
+Below is a description of the purpose for each of the files aimed at testing various aspects of the data and meta data files.
+
+Each file has a corresponding .meta file.
 
 one_row_simple
 - Tests the most simple row of data
@@ -102,13 +107,6 @@ all_year_empty
 all_year_identifier_blank
 - All time_period and time_identifier cells are blank
 
-----------------------------------------
-## Geography levels test data
-
-Below are the files you'll find for testing geographies.
-For each of these files, you should use the 'geography_levels.meta' file as the corresponding metadata file. 
-----------------------------------------
-
 Regional
 
 LA - Local authority
@@ -138,8 +136,7 @@ LA_with_SOME_regional_columns
 - Tests LA data with inconsistently completed regional columns (some completed, some blank).
 
 
-Still to do
-------------------------------------------------
+## Still to do
 
 MAT - Multi-academy trust
 
@@ -151,16 +148,6 @@ Institution
 
 Provider
 - Be aware that provider level requirements may change in the next sprint - I've had one team query this so far and I need to chase this up with them.
-
-
-----------------------------------------
-## Indicator and filter test data
-
-Below are the files to test filters and indicators, along with descriptions of their purpose.
-The metadata files for these are saved as the same name as their corresponding file with '.meta' appended on. 
-
-Below is the starting list of files I intend to make
-----------------------------------------
 
 Single_indicator
 
