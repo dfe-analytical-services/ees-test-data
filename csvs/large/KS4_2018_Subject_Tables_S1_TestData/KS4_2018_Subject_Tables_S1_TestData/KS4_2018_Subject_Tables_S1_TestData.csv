@@ -1,0 +1,382 @@
+,time_period,time_identifier,version,geographic_level,methodology_level,country_code,country_name,characteristic_group,characteristic,characteristic_gender,table,school_type,school_admission_type,school_religious_denomination,subject,qualification_type,subject_entry,Total_achieving_A*-G/9-1,Total_achieving_A*-C/9-4,Total_achieving_A-B,Total_achieving_A-E,Total_achieving_level_1_pass,Total_achieving_level_2_pass
+1,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Ancient History,GCSE,506,493,353,0,0,0,0
+2,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Ancient History,GCSE,460,442,304,0,0,0,0
+3,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Ancient History,GCSE,966,935,657,0,0,0,0
+4,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Ancient History,GCSE and equivalent,506,493,353,0,0,0,0
+5,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Ancient History,GCSE and equivalent,460,442,304,0,0,0,0
+6,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Ancient History,GCSE and equivalent,966,935,657,0,0,0,0
+7,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Any classical study,GCSE,6681,6659,6150,0,0,0,0
+8,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Any classical study,GCSE,5901,5878,5284,0,0,0,0
+9,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Any classical study,GCSE,12582,12537,11434,0,0,0,0
+10,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Any classical study,GCSE and equivalent,6681,6659,6150,0,0,0,0
+11,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Any classical study,GCSE and equivalent,5901,5878,5284,0,0,0,0
+12,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Any classical study,GCSE and equivalent,12582,12537,11434,0,0,0,0
+13,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Any design & technology,GCSE,38519,38202,28860,0,0,0,0
+14,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Any design & technology,GCSE,76360,74705,42087,0,0,0,0
+15,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Any design & technology,GCSE,114879,112907,70947,0,0,0,0
+16,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Any design & technology,GCSE and equivalent,38519,38202,28860,0,0,0,0
+17,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Any design & technology,GCSE and equivalent,76360,74705,42087,0,0,0,0
+18,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Any design & technology,GCSE and equivalent,114879,112907,70947,0,0,0,0
+19,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Any English,GCSE,267222,265447,225161,0,0,0,0
+20,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Any English,GCSE,272299,267598,192458,0,0,0,0
+21,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Any English,GCSE,539521,533045,417619,0,0,0,0
+22,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Any English,GCSE and equivalent,267222,265447,225161,0,0,0,0
+23,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Any English,GCSE and equivalent,272299,267598,192458,0,0,0,0
+24,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Any English,GCSE and equivalent,539521,533045,417619,0,0,0,0
+25,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Any mathematics,GCSE,263657,258368,188697,0,0,0,0
+26,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Any mathematics,GCSE,271425,264446,190144,0,0,0,0
+27,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Any mathematics,GCSE,535082,522814,378841,0,0,0,0
+28,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Any mathematics,GCSE and equivalent,263657,258368,188697,0,0,0,0
+29,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Any mathematics,GCSE and equivalent,271425,264446,190144,0,0,0,0
+30,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Any mathematics,GCSE and equivalent,535082,522814,378841,0,0,0,0
+31,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Any modern language,GCSE,146123,144603,110827,0,0,0,0
+32,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Any modern language,GCSE,113045,111178,74683,0,0,0,0
+33,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Any modern language,GCSE,259168,255781,185510,0,0,0,0
+34,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Any modern language,GCSE and equivalent,146189,144669,110894,0,0,0,0
+35,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Any modern language,GCSE and equivalent,113112,111245,74750,0,0,0,0
+36,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Any modern language,GCSE and equivalent,259301,255914,185644,0,0,0,0
+37,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Any modern language,GCSE Equivalent,84,84,84,0,0,0,0
+38,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Any modern language,GCSE Equivalent,83,83,82,0,0,0,0
+39,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Any modern language,GCSE Equivalent,167,167,166,0,0,0,0
+40,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Any other subject,GCSE,8188,7959,5802,0,0,0,0
+41,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Any other subject,GCSE,6859,6467,3808,0,0,0,0
+42,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Any other subject,GCSE,15047,14426,9610,0,0,0,0
+43,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Any other subject,GCSE and equivalent,10482,10037,7337,0,0,0,0
+44,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Any other subject,GCSE and equivalent,9631,8838,5325,0,0,0,0
+45,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Any other subject,GCSE and equivalent,20113,18875,12662,0,0,0,0
+46,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Any other subject,GCSE Equivalent,2346,2117,1558,0,0,0,0
+47,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Any other subject,GCSE Equivalent,2870,2450,1567,0,0,0,0
+48,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Any other subject,GCSE Equivalent,5216,4567,3125,0,0,0,0
+49,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Any science,GCSE,263876,260674,180290,0,0,0,0
+50,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Any science,GCSE,269076,263870,173148,0,0,0,0
+51,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Any science,GCSE,532952,524544,353438,0,0,0,0
+52,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Any science,GCSE and equivalent,263876,260674,180290,0,0,0,0
+53,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Any science,GCSE and equivalent,269076,263870,173148,0,0,0,0
+54,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Any science,GCSE and equivalent,532952,524544,353438,0,0,0,0
+55,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Any subject,GCSE,277953,276723,252077,0,0,0,0
+56,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Any subject,GCSE,287283,284751,239094,0,0,0,0
+57,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Any subject,GCSE,565236,561474,491171,0,0,0,0
+58,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Any subject,GCSE and equivalent,278031,276799,252179,0,0,0,0
+59,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Any subject,GCSE and equivalent,287399,284860,239247,0,0,0,0
+60,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Any subject,GCSE and equivalent,565430,561659,491426,0,0,0,0
+61,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Any subject,GCSE Equivalent,3230,2990,2242,0,0,0,0
+62,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Any subject,GCSE Equivalent,4446,3990,2834,0,0,0,0
+63,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Any subject,GCSE Equivalent,7676,6980,5076,0,0,0,0
+64,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Applied Business,GCSE,3525,3418,2371,0,0,0,0
+65,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Applied Business,GCSE,5083,4767,2793,0,0,0,0
+66,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Applied Business,GCSE,8608,8185,5164,0,0,0,0
+67,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Applied Business,GCSE and equivalent,3530,3423,2372,0,0,0,0
+68,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Applied Business,GCSE and equivalent,5088,4772,2795,0,0,0,0
+69,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Applied Business,GCSE and equivalent,8618,8195,5167,0,0,0,0
+70,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Applied Business,GCSE Equivalent,5,5,1,0,0,0,0
+71,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Applied Business,GCSE Equivalent,5,5,2,0,0,0,0
+72,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Applied Business,GCSE Equivalent,10,10,3,0,0,0,0
+73,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Applied Engineering,GCSE,452,445,281,0,0,0,0
+74,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Applied Engineering,GCSE,4025,3888,1694,0,0,0,0
+75,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Applied Engineering,GCSE,4477,4333,1975,0,0,0,0
+76,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Applied Engineering,GCSE and equivalent,452,445,281,0,0,0,0
+77,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Applied Engineering,GCSE and equivalent,4025,3888,1694,0,0,0,0
+78,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Applied Engineering,GCSE and equivalent,4477,4333,1975,0,0,0,0
+79,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Art and Design,GCSE,103125,102676,84971,0,0,0,0
+80,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Art and Design,GCSE,51690,51142,32110,0,0,0,0
+81,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Art and Design,GCSE,154815,153818,117081,0,0,0,0
+82,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Art and Design,GCSE and equivalent,103125,102676,84971,0,0,0,0
+83,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Art and Design,GCSE and equivalent,51690,51142,32110,0,0,0,0
+84,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Art and Design,GCSE and equivalent,154815,153818,117081,0,0,0,0
+85,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Biology,GCSE,79329,78753,72387,0,0,0,0
+86,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Biology,GCSE,80183,79353,71707,0,0,0,0
+87,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Biology,GCSE,159512,158106,144094,0,0,0,0
+88,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Biology,GCSE and equivalent,79329,78753,72387,0,0,0,0
+89,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Biology,GCSE and equivalent,80183,79353,71707,0,0,0,0
+90,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Biology,GCSE and equivalent,159512,158106,144094,0,0,0,0
+91,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Business Studies,GCSE,29725,29389,20308,0,0,0,0
+92,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Business Studies,GCSE,42837,42056,26651,0,0,0,0
+93,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Business Studies,GCSE,72562,71445,46959,0,0,0,0
+94,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Business Studies,GCSE and equivalent,30101,29765,20609,0,0,0,0
+95,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Business Studies,GCSE and equivalent,43620,42824,27282,0,0,0,0
+96,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Business Studies,GCSE and equivalent,73721,72589,47891,0,0,0,0
+97,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Business Studies,GCSE Equivalent,376,376,301,0,0,0,0
+98,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Business Studies,GCSE Equivalent,783,768,631,0,0,0,0
+99,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Business Studies,GCSE Equivalent,1159,1144,932,0,0,0,0
+100,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Chemistry,GCSE,77775,77335,70520,0,0,0,0
+101,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Chemistry,GCSE,78446,77741,70148,0,0,0,0
+102,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Chemistry,GCSE,156221,155076,140668,0,0,0,0
+103,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Chemistry,GCSE and equivalent,77775,77335,70520,0,0,0,0
+104,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Chemistry,GCSE and equivalent,78446,77741,70148,0,0,0,0
+105,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Chemistry,GCSE and equivalent,156221,155076,140668,0,0,0,0
+106,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Classical Civilisation,GCSE,1838,1833,1579,0,0,0,0
+107,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Classical Civilisation,GCSE,1691,1684,1294,0,0,0,0
+108,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Classical Civilisation,GCSE,3529,3517,2873,0,0,0,0
+109,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Classical Civilisation,GCSE and equivalent,1838,1833,1579,0,0,0,0
+110,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Classical Civilisation,GCSE and equivalent,1691,1684,1294,0,0,0,0
+111,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Classical Civilisation,GCSE and equivalent,3529,3517,2873,0,0,0,0
+112,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Classical Greek,GCSE,501,498,469,0,0,0,0
+113,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Classical Greek,GCSE,613,611,596,0,0,0,0
+114,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Classical Greek,GCSE,1114,1109,1065,0,0,0,0
+115,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Classical Greek,GCSE and equivalent,501,498,469,0,0,0,0
+116,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Classical Greek,GCSE and equivalent,613,611,596,0,0,0,0
+117,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Classical Greek,GCSE and equivalent,1114,1109,1065,0,0,0,0
+118,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Combined Science,GCSE,183339,180433,105401,0,0,0,0
+119,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Combined Science,GCSE,186356,181566,96993,0,0,0,0
+120,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Combined Science,GCSE,369695,361999,202394,0,0,0,0
+121,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Combined Science,GCSE and equivalent,183339,180433,105401,0,0,0,0
+122,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Combined Science,GCSE and equivalent,186356,181566,96993,0,0,0,0
+123,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Combined Science,GCSE and equivalent,369695,361999,202394,0,0,0,0
+124,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Communication Studies,GCSE,1526,1497,1040,0,0,0,0
+125,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Communication Studies,GCSE,2071,2005,1099,0,0,0,0
+126,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Communication Studies,GCSE,3597,3502,2139,0,0,0,0
+127,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Communication Studies,GCSE and equivalent,1526,1497,1040,0,0,0,0
+128,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Communication Studies,GCSE and equivalent,2071,2005,1099,0,0,0,0
+129,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Communication Studies,GCSE and equivalent,3597,3502,2139,0,0,0,0
+130,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Computer Science,GCSE,14293,13773,9318,0,0,0,0
+131,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Computer Science,GCSE,56004,54001,33920,0,0,0,0
+132,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Computer Science,GCSE,70297,67774,43238,0,0,0,0
+133,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Computer Science,GCSE and equivalent,14293,13773,9318,0,0,0,0
+134,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Computer Science,GCSE and equivalent,56004,54001,33920,0,0,0,0
+135,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Computer Science,GCSE and equivalent,70297,67774,43238,0,0,0,0
+136,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,D & T: Electronic Products,GCSE,430,427,350,0,0,0,0
+137,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,D & T: Electronic Products,GCSE,4042,3966,2697,0,0,0,0
+138,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,D & T: Electronic Products,GCSE,4472,4393,3047,0,0,0,0
+139,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,D & T: Electronic Products,GCSE and equivalent,430,427,350,0,0,0,0
+140,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,D & T: Electronic Products,GCSE and equivalent,4042,3966,2697,0,0,0,0
+141,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,D & T: Electronic Products,GCSE and equivalent,4472,4393,3047,0,0,0,0
+142,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,D & T: Graphic Products,GCSE,7236,7171,5465,0,0,0,0
+143,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,D & T: Graphic Products,GCSE,12064,11651,6095,0,0,0,0
+144,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,D & T: Graphic Products,GCSE,19300,18822,11560,0,0,0,0
+145,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,D & T: Graphic Products,GCSE and equivalent,7236,7171,5465,0,0,0,0
+146,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,D & T: Graphic Products,GCSE and equivalent,12064,11651,6095,0,0,0,0
+147,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,D & T: Graphic Products,GCSE and equivalent,19300,18822,11560,0,0,0,0
+148,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,D & T: Resistant Materials,GCSE,6821,6770,5173,0,0,0,0
+149,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,D & T: Resistant Materials,GCSE,34176,33533,18779,0,0,0,0
+150,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,D & T: Resistant Materials,GCSE,40997,40303,23952,0,0,0,0
+151,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,D & T: Resistant Materials,GCSE and equivalent,6821,6770,5173,0,0,0,0
+152,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,D & T: Resistant Materials,GCSE and equivalent,34176,33533,18779,0,0,0,0
+153,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,D & T: Resistant Materials,GCSE and equivalent,40997,40303,23952,0,0,0,0
+154,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,D & T: Systems & Control,GCSE,158,158,124,0,0,0,0
+155,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,D & T: Systems & Control,GCSE,1401,1386,964,0,0,0,0
+156,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,D & T: Systems & Control,GCSE,1559,1544,1088,0,0,0,0
+157,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,D & T: Systems & Control,GCSE and equivalent,158,158,124,0,0,0,0
+158,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,D & T: Systems & Control,GCSE and equivalent,1401,1386,964,0,0,0,0
+159,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,D & T: Systems & Control,GCSE and equivalent,1559,1544,1088,0,0,0,0
+160,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,D & T: Textiles Technology,GCSE,14592,14477,10770,0,0,0,0
+161,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,D & T: Textiles Technology,GCSE,612,597,236,0,0,0,0
+162,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,D & T: Textiles Technology,GCSE,15204,15074,11006,0,0,0,0
+163,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,D & T: Textiles Technology,GCSE and equivalent,14592,14477,10770,0,0,0,0
+164,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,D & T: Textiles Technology,GCSE and equivalent,612,597,236,0,0,0,0
+165,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,D & T: Textiles Technology,GCSE and equivalent,15204,15074,11006,0,0,0,0
+166,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Dance,GCSE,7607,7519,5433,0,0,0,0
+167,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Dance,GCSE,618,609,374,0,0,0,0
+168,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Dance,GCSE,8225,8128,5807,0,0,0,0
+169,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Dance,GCSE and equivalent,7607,7519,5433,0,0,0,0
+170,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Dance,GCSE and equivalent,618,609,374,0,0,0,0
+171,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Dance,GCSE and equivalent,8225,8128,5807,0,0,0,0
+172,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Drama,GCSE,36103,35960,29142,0,0,0,0
+173,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Drama,GCSE,21073,20869,13357,0,0,0,0
+174,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Drama,GCSE,57176,56829,42499,0,0,0,0
+175,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Drama,GCSE and equivalent,36103,35960,29142,0,0,0,0
+176,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Drama,GCSE and equivalent,21073,20869,13357,0,0,0,0
+177,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Drama,GCSE and equivalent,57176,56829,42499,0,0,0,0
+178,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Economics,GCSE,2650,2622,2101,0,0,0,0
+179,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Economics,GCSE,5587,5525,4382,0,0,0,0
+180,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Economics,GCSE,8237,8147,6483,0,0,0,0
+181,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Economics,GCSE and equivalent,2650,2622,2101,0,0,0,0
+182,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Economics,GCSE and equivalent,5587,5525,4382,0,0,0,0
+183,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Economics,GCSE and equivalent,8237,8147,6483,0,0,0,0
+184,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,English & mathematics,GCSE,261311,255920,180832,0,0,0,0
+185,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,English & mathematics,GCSE,267348,259071,166095,0,0,0,0
+186,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,English & mathematics,GCSE,528659,514991,346927,0,0,0,0
+187,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,English & mathematics,GCSE and equivalent,261311,255920,180832,0,0,0,0
+188,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,English & mathematics,GCSE and equivalent,267348,259071,166095,0,0,0,0
+189,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,English & mathematics,GCSE and equivalent,528659,514991,346927,0,0,0,0
+190,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,English Language,GCSE,266327,264098,207297,0,0,0,0
+191,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,English Language,GCSE,271727,265936,170335,0,0,0,0
+192,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,English Language,GCSE,538054,530034,377632,0,0,0,0
+193,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,English Language,GCSE and equivalent,266327,264098,207297,0,0,0,0
+194,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,English Language,GCSE and equivalent,271727,265936,170335,0,0,0,0
+195,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,English Language,GCSE and equivalent,538054,530034,377632,0,0,0,0
+196,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,English Literature,GCSE,262178,259041,211015,0,0,0,0
+197,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,English Literature,GCSE,262793,254507,171614,0,0,0,0
+198,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,English Literature,GCSE,524971,513548,382629,0,0,0,0
+199,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,English Literature,GCSE and equivalent,262178,259041,211015,0,0,0,0
+200,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,English Literature,GCSE and equivalent,262793,254507,171614,0,0,0,0
+201,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,English Literature,GCSE and equivalent,524971,513548,382629,0,0,0,0
+202,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,English, mathematics & science,GCSE,256885,250838,162812,0,0,0,0
+203,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,English, mathematics & science,GCSE,261152,252225,148839,0,0,0,0
+204,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,English, mathematics & science,GCSE,518037,503063,311651,0,0,0,0
+205,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,English, mathematics & science,GCSE and equivalent,256885,250838,162812,0,0,0,0
+206,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,English, mathematics & science,GCSE and equivalent,261152,252225,148839,0,0,0,0
+207,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,English, mathematics & science,GCSE and equivalent,518037,503063,311651,0,0,0,0
+208,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Food Preparation & Nutrition,GCSE,29078,28885,20659,0,0,0,0
+209,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Food Preparation & Nutrition,GCSE,17229,16954,8306,0,0,0,0
+210,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Food Preparation & Nutrition,GCSE,46307,45839,28965,0,0,0,0
+211,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Food Preparation & Nutrition,GCSE and equivalent,29078,28885,20659,0,0,0,0
+212,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Food Preparation & Nutrition,GCSE and equivalent,17229,16954,8306,0,0,0,0
+213,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Food Preparation & Nutrition,GCSE and equivalent,46307,45839,28965,0,0,0,0
+214,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,French,GCSE,68499,67813,50634,0,0,0,0
+215,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,French,GCSE,48399,47617,30682,0,0,0,0
+216,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,French,GCSE,116898,115430,81316,0,0,0,0
+217,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,French,GCSE and equivalent,68499,67813,50634,0,0,0,0
+218,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,French,GCSE and equivalent,48399,47617,30682,0,0,0,0
+219,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,French,GCSE and equivalent,116898,115430,81316,0,0,0,0
+220,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,General Studies,GCSE,1682,1576,719,0,0,0,0
+221,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,General Studies,GCSE,1977,1773,701,0,0,0,0
+222,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,General Studies,GCSE,3659,3349,1420,0,0,0,0
+223,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,General Studies,GCSE and equivalent,1682,1576,719,0,0,0,0
+224,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,General Studies,GCSE and equivalent,1977,1773,701,0,0,0,0
+225,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,General Studies,GCSE and equivalent,3659,3349,1420,0,0,0,0
+226,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Geography,GCSE,112104,110666,76389,0,0,0,0
+227,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Geography,GCSE,128587,125165,79055,0,0,0,0
+228,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Geography,GCSE,240691,235831,155444,0,0,0,0
+229,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Geography,GCSE and equivalent,112104,110666,76389,0,0,0,0
+230,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Geography,GCSE and equivalent,128587,125165,79055,0,0,0,0
+231,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Geography,GCSE and equivalent,240691,235831,155444,0,0,0,0
+232,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,German,GCSE,21966,21762,17257,0,0,0,0
+233,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,German,GCSE,20294,20023,14251,0,0,0,0
+234,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,German,GCSE,42260,41785,31508,0,0,0,0
+235,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,German,GCSE and equivalent,21966,21762,17257,0,0,0,0
+236,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,German,GCSE and equivalent,20294,20023,14251,0,0,0,0
+237,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,German,GCSE and equivalent,42260,41785,31508,0,0,0,0
+238,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Health and Social Care,GCSE,11794,11508,6630,0,0,0,0
+239,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Health and Social Care,GCSE,1006,915,301,0,0,0,0
+240,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Health and Social Care,GCSE,12800,12423,6931,0,0,0,0
+241,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Health and Social Care,GCSE and equivalent,11794,11508,6630,0,0,0,0
+242,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Health and Social Care,GCSE and equivalent,1006,915,301,0,0,0,0
+243,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Health and Social Care,GCSE and equivalent,12800,12423,6931,0,0,0,0
+244,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,History,GCSE,128843,125974,86251,0,0,0,0
+245,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,History,GCSE,114227,109230,68533,0,0,0,0
+246,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,History,GCSE,243070,235204,154784,0,0,0,0
+247,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,History,GCSE and equivalent,128843,125974,86251,0,0,0,0
+248,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,History,GCSE and equivalent,114227,109230,68533,0,0,0,0
+249,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,History,GCSE and equivalent,243070,235204,154784,0,0,0,0
+250,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Home Economics,GCSE,8768,8647,4727,0,0,0,0
+251,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Home Economics,GCSE,146,138,49,0,0,0,0
+252,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Home Economics,GCSE,8914,8785,4776,0,0,0,0
+253,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Home Economics,GCSE and equivalent,8768,8647,4727,0,0,0,0
+254,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Home Economics,GCSE and equivalent,146,138,49,0,0,0,0
+255,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Home Economics,GCSE and equivalent,8914,8785,4776,0,0,0,0
+256,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Hospitality and Catering,GCSE,1429,1421,942,0,0,0,0
+257,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Hospitality and Catering,GCSE,1049,1034,421,0,0,0,0
+258,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Hospitality and Catering,GCSE,2478,2455,1363,0,0,0,0
+259,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Hospitality and Catering,GCSE and equivalent,1429,1421,942,0,0,0,0
+260,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Hospitality and Catering,GCSE and equivalent,1049,1034,421,0,0,0,0
+261,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Hospitality and Catering,GCSE and equivalent,2478,2455,1363,0,0,0,0
+262,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Information Technology,GCSE,16297,16002,11396,0,0,0,0
+263,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Information Technology,GCSE,27815,27042,17234,0,0,0,0
+264,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Information Technology,GCSE,44112,43044,28630,0,0,0,0
+265,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Information Technology,GCSE and equivalent,16751,16445,11713,0,0,0,0
+266,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Information Technology,GCSE and equivalent,28604,27806,17832,0,0,0,0
+267,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Information Technology,GCSE and equivalent,45355,44251,29545,0,0,0,0
+268,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Information Technology,GCSE Equivalent,454,443,317,0,0,0,0
+269,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Information Technology,GCSE Equivalent,789,764,598,0,0,0,0
+270,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Information Technology,GCSE Equivalent,1243,1207,915,0,0,0,0
+271,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Latin,GCSE,4427,4419,4220,0,0,0,0
+272,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Latin,GCSE,4020,4011,3830,0,0,0,0
+273,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Latin,GCSE,8447,8430,8050,0,0,0,0
+274,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Latin,GCSE and equivalent,4427,4419,4220,0,0,0,0
+275,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Latin,GCSE and equivalent,4020,4011,3830,0,0,0,0
+276,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Latin,GCSE and equivalent,8447,8430,8050,0,0,0,0
+277,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Leisure and Tourism,GCSE,980,957,520,0,0,0,0
+278,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Leisure and Tourism,GCSE,909,860,300,0,0,0,0
+279,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Leisure and Tourism,GCSE,1889,1817,820,0,0,0,0
+280,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Leisure and Tourism,GCSE and equivalent,980,957,520,0,0,0,0
+281,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Leisure and Tourism,GCSE and equivalent,909,860,300,0,0,0,0
+282,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Leisure and Tourism,GCSE and equivalent,1889,1817,820,0,0,0,0
+283,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Manufacturing,GCSE,29,28,14,0,0,0,0
+284,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Manufacturing,GCSE,23,21,14,0,0,0,0
+285,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Manufacturing,GCSE,52,49,28,0,0,0,0
+286,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Manufacturing,GCSE and equivalent,29,28,14,0,0,0,0
+287,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Manufacturing,GCSE and equivalent,23,21,14,0,0,0,0
+288,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Manufacturing,GCSE and equivalent,52,49,28,0,0,0,0
+289,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Mathematics,GCSE,263657,258368,188697,0,0,0,0
+290,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Mathematics,GCSE,271425,264446,190144,0,0,0,0
+291,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Mathematics,GCSE,535082,522814,378841,0,0,0,0
+292,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Mathematics,GCSE and equivalent,263657,258368,188697,0,0,0,0
+293,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Mathematics,GCSE and equivalent,271425,264446,190144,0,0,0,0
+294,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Mathematics,GCSE and equivalent,535082,522814,378841,0,0,0,0
+295,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Mathematics & science,GCSE,257897,251962,166005,0,0,0,0
+296,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Mathematics & science,GCSE,262746,254743,160744,0,0,0,0
+297,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Mathematics & science,GCSE,520643,506705,326749,0,0,0,0
+298,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Mathematics & science,GCSE and equivalent,257897,251962,166005,0,0,0,0
+299,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Mathematics & science,GCSE and equivalent,262746,254743,160744,0,0,0,0
+300,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Mathematics & science,GCSE and equivalent,520643,506705,326749,0,0,0,0
+301,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Media/Film/TV,GCSE,17843,17711,13775,0,0,0,0
+302,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Media/Film/TV,GCSE,20068,19675,11045,0,0,0,0
+303,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Media/Film/TV,GCSE,37911,37386,24820,0,0,0,0
+304,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Media/Film/TV,GCSE and equivalent,17843,17711,13775,0,0,0,0
+305,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Media/Film/TV,GCSE and equivalent,20068,19675,11045,0,0,0,0
+306,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Media/Film/TV,GCSE and equivalent,37911,37386,24820,0,0,0,0
+307,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Music,GCSE,19265,19135,15059,0,0,0,0
+308,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Music,GCSE,15443,15221,10986,0,0,0,0
+309,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Music,GCSE,34708,34356,26045,0,0,0,0
+310,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Music,GCSE and equivalent,19265,19135,15059,0,0,0,0
+311,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Music,GCSE and equivalent,15443,15221,10986,0,0,0,0
+312,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Music,GCSE and equivalent,34708,34356,26045,0,0,0,0
+313,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Other Classical Studies,GCSE,390,381,333,0,0,0,0
+314,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Other Classical Studies,GCSE,152,146,119,0,0,0,0
+315,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Other Classical Studies,GCSE,542,527,452,0,0,0,0
+316,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Other Classical Studies,GCSE and equivalent,390,381,333,0,0,0,0
+317,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Other Classical Studies,GCSE and equivalent,152,146,119,0,0,0,0
+318,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Other Classical Studies,GCSE and equivalent,542,527,452,0,0,0,0
+319,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Other Design and Technology,GCSE,9909,9815,7382,0,0,0,0
+320,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Other Design and Technology,GCSE,26448,25867,14264,0,0,0,0
+321,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Other Design and Technology,GCSE,36357,35682,21646,0,0,0,0
+322,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Other Design and Technology,GCSE and equivalent,9909,9815,7382,0,0,0,0
+323,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Other Design and Technology,GCSE and equivalent,26448,25867,14264,0,0,0,0
+324,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Other Design and Technology,GCSE and equivalent,36357,35682,21646,0,0,0,0
+325,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Other Modern Languages,GCSE,16889,16787,15465,0,0,0,0
+326,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Other Modern Languages,GCSE,13874,13722,12034,0,0,0,0
+327,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Other Modern Languages,GCSE,30763,30509,27499,0,0,0,0
+328,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Other Modern Languages,GCSE and equivalent,16967,16865,15543,0,0,0,0
+329,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Other Modern Languages,GCSE and equivalent,13949,13797,12108,0,0,0,0
+330,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Other Modern Languages,GCSE and equivalent,30916,30662,27651,0,0,0,0
+331,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Other Modern Languages,GCSE Equivalent,84,84,84,0,0,0,0
+332,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Other Modern Languages,GCSE Equivalent,83,83,82,0,0,0,0
+333,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Other Modern Languages,GCSE Equivalent,167,167,166,0,0,0,0
+334,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Other Sciences,GCSE,889,879,602,0,0,0,0
+335,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Other Sciences,GCSE,1856,1824,1331,0,0,0,0
+336,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Other Sciences,GCSE,2745,2703,1933,0,0,0,0
+337,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Other Sciences,GCSE and equivalent,889,879,602,0,0,0,0
+338,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Other Sciences,GCSE and equivalent,1856,1824,1331,0,0,0,0
+339,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Other Sciences,GCSE and equivalent,2745,2703,1933,0,0,0,0
+340,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Physical Education,GCSE,30361,30274,23236,0,0,0,0
+341,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Physical Education,GCSE,54578,54419,36612,0,0,0,0
+342,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Physical Education,GCSE,84939,84693,59848,0,0,0,0
+343,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Physical Education,GCSE and equivalent,30361,30274,23236,0,0,0,0
+344,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Physical Education,GCSE and equivalent,54578,54419,36612,0,0,0,0
+345,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Physical Education,GCSE and equivalent,84939,84693,59848,0,0,0,0
+346,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Physics,GCSE,76808,76255,69496,0,0,0,0
+347,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Physics,GCSE,77958,77357,71256,0,0,0,0
+348,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Physics,GCSE,154766,153612,140752,0,0,0,0
+349,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Physics,GCSE and equivalent,76808,76255,69496,0,0,0,0
+350,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Physics,GCSE and equivalent,77958,77357,71256,0,0,0,0
+351,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Physics,GCSE and equivalent,154766,153612,140752,0,0,0,0
+352,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Religious Studies,GCSE,115514,114351,91230,0,0,0,0
+353,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Religious Studies,GCSE,98336,95333,62309,0,0,0,0
+354,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Religious Studies,GCSE,213850,209684,153539,0,0,0,0
+355,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Religious Studies,GCSE and equivalent,115514,114351,91230,0,0,0,0
+356,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Religious Studies,GCSE and equivalent,98336,95333,62309,0,0,0,0
+357,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Religious Studies,GCSE and equivalent,213850,209684,153539,0,0,0,0
+358,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Social Studies,GCSE,23988,23658,16411,0,0,0,0
+359,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Social Studies,GCSE,10246,9838,5462,0,0,0,0
+360,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Social Studies,GCSE,34234,33496,21873,0,0,0,0
+361,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Social Studies,GCSE and equivalent,23988,23658,16411,0,0,0,0
+362,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Social Studies,GCSE and equivalent,10246,9838,5462,0,0,0,0
+363,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Social Studies,GCSE and equivalent,34234,33496,21873,0,0,0,0
+364,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Spanish,GCSE,50030,49408,37530,0,0,0,0
+365,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Spanish,GCSE,37895,37151,23862,0,0,0,0
+366,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Spanish,GCSE,87925,86559,61392,0,0,0,0
+367,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Spanish,GCSE and equivalent,50030,49408,37530,0,0,0,0
+368,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Spanish,GCSE and equivalent,37895,37151,23862,0,0,0,0
+369,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Spanish,GCSE and equivalent,87925,86559,61392,0,0,0,0
+370,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Statistics,GCSE,10057,9902,7393,0,0,0,0
+371,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Statistics,GCSE,12673,12397,8729,0,0,0,0
+372,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Statistics,GCSE,22730,22299,16122,0,0,0,0
+373,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Statistics,GCSE and equivalent,10057,9902,7393,0,0,0,0
+374,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Statistics,GCSE and equivalent,12673,12397,8729,0,0,0,0
+375,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Statistics,GCSE and equivalent,22730,22299,16122,0,0,0,0
+376,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Vocational Studies,GCSE,3611,3553,2567,0,0,0,0
+377,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Vocational Studies,GCSE,4515,4397,2481,0,0,0,0
+378,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Vocational Studies,GCSE,8126,7950,5048,0,0,0,0
+379,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,F,S1a,Total,Total,Total,Vocational Studies,GCSE and equivalent,3611,3553,2567,0,0,0,0
+380,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,M,S1a,Total,Total,Total,Vocational Studies,GCSE and equivalent,4515,4397,2481,0,0,0,0
+381,201718,Academic year,Amended,National,null,E92000001,England,NA,NA,All,S1a,Total,Total,Total,Vocational Studies,GCSE and equivalent,8126,7950,5048,0,0,0,0
