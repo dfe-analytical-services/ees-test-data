@@ -14,6 +14,12 @@ Below is a description of the purpose for each of the files aimed at testing var
 
 Each file has a corresponding .meta file.
 
+indicator_unit_test
+- Tests number, % and £ units for indicators
+
+no_table_tool_results
+- Does not have all of the options for all of the filters, and should return no results for Gender Female statistics defined for School Type State-funded primary and there are no Gender Male statistics defined for School Type State-funded secondary
+
 one_row_simple
 - Tests the most simple row of data
 
