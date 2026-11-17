@@ -1,5 +1,8 @@
 # ees-test-data
 
+> [!WARNING]
+> This repository is archived and is no longer maintained. It is kept read-only for reference only.
+
 Test data for the Explore Education Statistics service, below is a description for each of the files.
 
 ## Large
